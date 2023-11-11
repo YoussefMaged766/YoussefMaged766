@@ -32,5 +32,6 @@ I am a Android developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=YoussefMaged766&theme=dark&background=000000)](https://git.io/streak-stats)
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=YoussefMaged766&show_icons=true&locale=en&layout=compact" alt="YoussefMaged" /></p>
 
 
