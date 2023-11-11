@@ -1,7 +1,6 @@
 <h1 align="center"/>
-  Hey there
+  Hey there <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
 <!--    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" /> -->
-  <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
    I'm Youssef Maged
 </h1>
 
